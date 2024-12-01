@@ -1,10 +1,6 @@
 ---
-title: Guide
-weight: 2
-prev: /docs/Advanced
-next: /docs/Guide.md
-sidebar:
-  open: true
+linkTitle: Advanced
+title: Advanced Topics
 ---
 
 This section covers some advanced topics of the theme.
