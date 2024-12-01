@@ -26,6 +26,14 @@ menu:
       url: "https://github.com/imfing/hextra"
       params:
         icon: github
+  sidebar:
+    - name: More
+      params:
+        type: separator
+      weight: 1
+    - name: "About"
+      pageRef: "/about"
+      weight: 2
 
 params:
   navbar:
@@ -41,6 +49,14 @@ params:
   homepageTitle: "My Custom Homepage"
   homepageSection: "home"
     # ...
+    # Search
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
 
 markup:
   goldmark:
@@ -48,5 +64,3 @@ markup:
       unsafe: true
   highlight:
     noClasses: false
-
-copyright: "© 2024 Layer 8 Project."
