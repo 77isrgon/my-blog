@@ -49,22 +49,21 @@ params:
   homepageTitle: "My Custom Homepage"
   homepageSection: "home"
     # ...
-
-markup:
+  markup:
   goldmark:
     renderer:
       unsafe: true
   highlight:
     noClasses: false
 
-footer:
+  footer:
     enable: true
     displayCopyright: true
     displayPoweredBy: true
     width: normal
 # Search
 # flexsearch is enabled by default
-search:
+  search:
     enable: true
     type: flexsearch
 
