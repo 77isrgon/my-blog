@@ -8,14 +8,15 @@ draft: false
   Please visit GitHub to see the latest releases.
 {{< /callout >}}
 
-This is your new *vault*.*
+## Demo Guide
 
 ![](Pasted_image_20241127185132.png)
 
 ![](Pasted_image_20241127190728.png)
 
 
-```markup
+### Robocopy Command
+```powershell
 robocopy sourcepath destination path /mir
 ```
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
