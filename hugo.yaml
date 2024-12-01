@@ -41,6 +41,7 @@ params:
   homepageTitle: "My Custom Homepage"
   homepageSection: "home"
     # ...
+  footerText: "My Hugo Site - 2024. All rights reserved."
 
 markup:
   goldmark:
