@@ -48,3 +48,5 @@ markup:
       unsafe: true
   highlight:
     noClasses: false
+
+copyright: "© 2024 Layer 8 Project."
