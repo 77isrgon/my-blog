@@ -1,4 +1,5 @@
-baseURL: https://blog.layer8techs.com
+baseURL: https://layer8techs.nyc3.digitaloceanspaces.com
+publishDir: public
 languageCode: en-us
 title: Layer 8 Techs
 
@@ -92,3 +93,10 @@ params:
       # full | forward | reverse | strict
       # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
       tokenize: forward
+hooks:
+  postbuild:
+    commands:
+      - name: Sync to Spaces
+        command: |
+          apt-get update && apt-get install -y rclone
+          rclone sync public digitalocean:layer8techs
