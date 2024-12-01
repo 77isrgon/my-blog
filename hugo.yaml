@@ -60,5 +60,17 @@ markup:
 footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: false
+    displayPoweredBy: true
     width: normal
+# Search
+# flexsearch is enabled by default
+search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+      # full | forward | reverse | strict
+      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
+      tokenize: forward
