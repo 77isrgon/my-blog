@@ -1,8 +1,6 @@
 ---
 title: Guide
 date: 2024-11-30
-sidebar:
-  exclude: false
 draft: false
 ---
 

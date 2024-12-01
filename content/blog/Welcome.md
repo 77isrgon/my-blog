@@ -1,8 +1,6 @@
 ---
 title: Welcome
 date: 2024-11-27
-sidebar:
-  exclude: false
 draft: false
 ---
 
