@@ -1,6 +1,6 @@
 ---
 title: Hextra Theme
-layout: hextra-home
+layout: home
 ---
 
 {{< hextra/hero-badge >}}
