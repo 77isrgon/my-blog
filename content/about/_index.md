@@ -2,9 +2,6 @@
 title: 'About'
 layout: about
 ---
-# H1
-Blob.
-
 ## H2
 Blob.
 
