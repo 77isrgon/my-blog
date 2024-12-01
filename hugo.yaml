@@ -49,13 +49,18 @@ params:
   homepageTitle: "My Custom Homepage"
   homepageSection: "home"
     # ...
-  markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    noClasses: false
 
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: always
   footer:
     enable: true
     displayCopyright: true
