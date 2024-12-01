@@ -1,5 +1,5 @@
 ---
-title: My Blog
+title: Blog
 cascade:
   type: blog
 sidebar:
