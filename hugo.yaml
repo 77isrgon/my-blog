@@ -49,14 +49,6 @@ params:
   homepageTitle: "My Custom Homepage"
   homepageSection: "home"
     # ...
-    # Search
-  search:
-    enable: true
-    type: flexsearch
-
-    flexsearch:
-      # index page by: content | summary | heading | title
-      index: content
 
 markup:
   goldmark:
