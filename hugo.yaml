@@ -41,7 +41,6 @@ params:
   homepageTitle: "My Custom Homepage"
   homepageSection: "home"
     # ...
-  footerText: "@ 2024 Layer 8 Techs. All rights reserved."
 
 markup:
   goldmark:
