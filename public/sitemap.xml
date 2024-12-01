@@ -14,6 +14,9 @@
     <loc>http://localhost:1313/blog/welcome/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/welcome_copy/</loc>
+    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
