@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Layer 8 Techs – Advanced Topics</title>
+    <title>Layer 8 Techs – Guide</title>
     <link>http://localhost:1313/docs/guide/</link>
-    <description>Recent content in Advanced Topics on Layer 8 Techs</description>
+    <description>Recent content in Guide on Layer 8 Techs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
@@ -16,11 +16,11 @@
     
     
     <item>
-      <title>Guide</title>
-      <link>http://localhost:1313/docs/guide/guide/</link>
+      <title>How to Guide</title>
+      <link>http://localhost:1313/docs/guide/how-to-guide/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/guide/guide/</guid>
+      <guid>http://localhost:1313/docs/guide/how-to-guide/</guid>
       <description>
         
         

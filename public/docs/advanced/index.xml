@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Layer 8 Techs – Guide</title>
+    <title>Layer 8 Techs – Advanced Topics</title>
     <link>http://localhost:1313/docs/advanced/</link>
-    <description>Recent content in Guide on Layer 8 Techs</description>
+    <description>Recent content in Advanced Topics on Layer 8 Techs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
