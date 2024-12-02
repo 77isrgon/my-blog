@@ -51,8 +51,8 @@ jobs:
         run: |
           hugo \
             --gc --minify \
-            --baseURL "https://77isrgon.github.io/"
-        #--baseURL "${{ steps.pages.outputs.base_url }}/"          
+        #--baseURL "https://77isrgon.github.io/"
+            --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
