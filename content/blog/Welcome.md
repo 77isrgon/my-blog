@@ -2,6 +2,8 @@
 title: Welcome
 date: 2024-11-27
 draft: false
+category: introduction
+tag: intro
 ---
 
 {{< callout type="info" >}}
