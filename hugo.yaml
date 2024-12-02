@@ -92,10 +92,3 @@ params:
       # full | forward | reverse | strict
       # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
       tokenize: forward
-hooks:
-  postbuild:
-    commands:
-      - name: Sync to Spaces
-        command: |
-          apt-get update && apt-get install -y rclone
-          rclone sync public digitalocean:layer8techs
