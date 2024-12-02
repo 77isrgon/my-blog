@@ -3,8 +3,8 @@ languageCode: en-us
 title: Layer 8 Techs
 
 taxonomies:
-  category: [ai, docker]
-  tag: [intro, ai, docker]
+  category: categories
+  tag: tags
 
 module:
   imports:
