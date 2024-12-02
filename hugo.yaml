@@ -82,7 +82,7 @@ params:
   footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: true
+    displayPoweredBy: false
     width: normal
 # Search
 # flexsearch is enabled by default
