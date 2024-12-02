@@ -2,8 +2,14 @@
 title: Welcome
 date: 2024-11-27
 draft: false
-category: introduction
-tag: intro
+categories: 
+   - introduction
+   - git
+   - powershell
+tags: 
+  - intro
+  - powershell
+  - git
 ---
 
 {{< callout type="info" >}}
