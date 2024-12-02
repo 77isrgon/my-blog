@@ -7,8 +7,6 @@ layout: home
 
 Visit my LinkedIn {{< icon "linkedin" >}} profile: 
 
-{{< card icon="linkedin" >}}
-
 {{< card link="https://www.linkedin.com/home" title="LinkedIn" icon="linkedin" >}} 
 
 {{< youtube >}}
