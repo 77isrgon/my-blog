@@ -4,10 +4,6 @@ date: 2024-11-30
 draft: false
 ---
 
-{{< callout type="info" >}}
-  Please visit GitHub to see the latest releases.
-{{< /callout >}}
-
 ## Demo Guide
 
 ![](Pasted_image_20241127185132.png)

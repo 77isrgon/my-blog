@@ -5,10 +5,7 @@ title: Layer 8 Techs
 taxonomies:
   category: categories
   tag: tags
-
-module:
-  imports:
-    - path: github.com/imfing/hextra
+theme: ["PaperMod"]
 
 markup:
   goldmark:

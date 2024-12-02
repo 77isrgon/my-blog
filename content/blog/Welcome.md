@@ -12,10 +12,6 @@ tags:
   - git
 ---
 
-{{< callout type="info" >}}
-  Please visit GitHub to see the latest releases.
-{{< /callout >}}
-
 This is your new *vault*.*
 
 ![](Pasted_image_20241127185132.png)
