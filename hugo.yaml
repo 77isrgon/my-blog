@@ -1,5 +1,4 @@
-baseURL: https://layer8techs.nyc3.digitaloceanspaces.com
-publishDir: public
+baseURL: https://blog.layer8techs.com
 languageCode: en-us
 title: Layer 8 Techs
 
