@@ -9,6 +9,6 @@ Visit my LinkedIn {{< icon "linkedin" >}} profile:
 
 {{< card icon="linkedin" >}}
 
-{{< card link="https://www.linkedin.com/home" title="LikedIn" icon="linkedin" >}} 
+{{< card link="https://www.linkedin.com/home" title="LinkedIn" icon="linkedin" >}} 
 
 This is a custom homepage where you can add a welcome message, links, and more content as needed.
