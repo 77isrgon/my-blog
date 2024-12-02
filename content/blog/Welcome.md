@@ -3,9 +3,9 @@ title: Welcome
 date: 2024-11-27
 draft: false
 categories: 
-   - introduction
-   - git
-   - powershell
+  - introduction
+  - git
+  - powershell
 tags: 
   - intro
   - powershell
