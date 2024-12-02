@@ -17,15 +17,35 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/git/</loc>
+    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/git/</loc>
+    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/intro/</loc>
+    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/introduction/</loc>
+    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/powershell/</loc>
+    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/powershell/</loc>
+    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/welcome/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/advanced/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
