@@ -61,7 +61,7 @@ params:
 
   label:
     text: "Layer 8 Techs"
-    icon: /images/code.png
+    icon: /images/code32.png
     iconHeight: 35
 
   # profile-mode
