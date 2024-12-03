@@ -39,6 +39,10 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  github:
+    owner: 77isrgon
+    repo: my-blog
+    token: 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
 
   assets:
     # disableHLJS: true # to disable highlight.js
