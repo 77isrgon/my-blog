@@ -12,7 +12,7 @@ tags:
   - git
 # weight: 1
 # aliases: ["/first"]
-author: "Me"
+author: "Layer 8 Authors"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
@@ -33,11 +33,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/static/images/portrait.jpg>" # image path/url
+    image: "/images/portrait.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/77isrgon/my-blog/content"
     Text: "Suggest Changes" # edit text
