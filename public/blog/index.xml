@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 13:12:10 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draft Article</title>
+      <link>http://localhost:1313/blog/draft-article/</link>
+      <pubDate>Tue, 03 Dec 2024 13:12:10 -0800</pubDate>
+      <guid>http://localhost:1313/blog/draft-article/</guid>
+      <description>Desc Text.</description>
+    </item>
     <item>
       <title>Welcome</title>
       <link>http://localhost:1313/blog/welcome/</link>
