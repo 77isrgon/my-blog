@@ -1,6 +1,9 @@
 baseURL: "https://blog.layer8techs.com/"
 title: Layer 8 Techs
-# paginate: 6
+pagination:
+  disableAliases: false
+  pagerSize: 10
+  path: page
 theme: PaperMod
 
 enableRobotsTXT: true
