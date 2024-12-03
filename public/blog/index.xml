@@ -18,12 +18,7 @@
       <link>http://localhost:1313/blog/welcome/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/welcome/</guid>
-      <description>&lt;p&gt;This is your new &lt;em&gt;vault&lt;/em&gt;.*&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;Pasted_image_20241127185132.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;Pasted_image_20241127190728.png&#34;&gt;&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-markup&#34; data-lang=&#34;markup&#34;&gt;robocopy sourcepath destination path /mir
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Make a note of something, [[create a link]], or try &lt;a href=&#34;https://help.obsidian.md/Plugins/Importer&#34;&gt;the Importer&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;When you&amp;rsquo;re ready, delete this note and make the vault your own.&lt;/p&gt;</description>
+      <description>Desc Text.</description>
     </item>
   </channel>
 </rss>
