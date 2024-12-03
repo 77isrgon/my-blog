@@ -59,10 +59,10 @@ params:
     enabled: false # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "/static/images/"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: portrait.jpg
     buttons:
       - name: Posts
         url: posts
