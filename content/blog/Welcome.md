@@ -12,7 +12,7 @@ tags:
   - git
 # weight: 1
 # aliases: ["/first"]
-author: "Me"
+author: "Layer 8 Authors"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
@@ -33,7 +33,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/portrait.jpg>" # image path/url
+    image: "/images/portrait.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
