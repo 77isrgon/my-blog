@@ -1,26 +1,18 @@
 {{- /* Comments area start */ -}}
 {{- /* to add comments read => https://gohugo.io/content-management/comments/ */ -}}
 {{- /* Comments area end */ -}}
-<div id="comments"></div>
-<script>
-  const owner = "{{ .Site.Params.github.owner }}";
-  const repo = "{{ .Site.Params.github.repo }}";
-  const token = "{{ .Site.Params.github.token }}";
-
-  fetch(`https://api.github.com/repos/${owner}/${repo}/discussions`, {
-    headers: {
-      Authorization: `token ${token}`,
-    },
-  })
-    .then(response => response.json())
-    .then(data => {
-      const comments = data.map(comment => `
-        <div class="comment">
-          <h3>${comment.user.login}</h3>
-          <p>${comment.body}</p>
-        </div>
-      `).join('');
-      document.getElementById('comments').innerHTML = comments;
-    })
-    .catch(error => console.error('Error fetching discussions:', error));
+<script src="https://giscus.app/client.js"
+        data-repo="77isrgon/my-blog"
+        data-repo-id="R_kgDONWPvZQ"
+        data-category="General"
+        data-category-id="DIC_kwDONWPvZc4Ck1sy"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
 </script>
