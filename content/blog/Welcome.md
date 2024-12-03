@@ -33,15 +33,15 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/portrait.jpg" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+  image: "/images/portrait.jpg" # image path/url
+  alt: "<alt text>" # alt text
+  caption: "<text>" # display caption under cover
+  relative: false # when using page bundles set this to true
+  hidden: false # only hide on current single page
 editPost:
-    URL: "https://github.com/77isrgon/my-blog/tree/master/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  URL: "https://github.com/77isrgon/my-blog/tree/master/content"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: true # to append file path to Edit link
 ---
 
 This is your new *vault*.*
