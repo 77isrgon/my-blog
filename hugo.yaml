@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://blog.layer8techs.com/"
+title: Layer 8 Techs
 paginate: 5
 theme: PaperMod
 
@@ -64,8 +64,8 @@ params:
     imageHeight: 120
     imageTitle: portrait
     buttons:
-      - name: Posts
-        url: posts
+      - name: Blog
+        url: blog
       - name: Tags
         url: tags
 
