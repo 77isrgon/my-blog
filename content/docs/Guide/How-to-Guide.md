@@ -46,9 +46,9 @@ editPost:
 
 ## Demo Guide
 
-![](/content/blog/Pasted_image_20241127185132.png)
+![](/images/Pasted_image_20241127185132.png)
 
-![](/content/blog/Pasted_image_20241127190728.png)
+![](/images/Pasted_image_20241127190728.png)
 
 
 ### Robocopy Command
