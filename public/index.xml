@@ -18,13 +18,7 @@
       <link>http://localhost:1313/docs/guide/how-to-guide/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/guide/how-to-guide/</guid>
-      <description>&lt;h2 id=&#34;demo-guide&#34;&gt;Demo Guide&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;Pasted_image_20241127185132.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;Pasted_image_20241127190728.png&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;robocopy-command&#34;&gt;Robocopy Command&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;robocopy&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;sourcepath&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;destination&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;path&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;mir&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Make a note of something, [[create a link]], or try &lt;a href=&#34;https://help.obsidian.md/Plugins/Importer&#34;&gt;the Importer&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;When you&amp;rsquo;re ready, delete this note and make the vault your own.&lt;/p&gt;</description>
+      <description>Desc Text.</description>
     </item>
     <item>
       <title>Welcome</title>
