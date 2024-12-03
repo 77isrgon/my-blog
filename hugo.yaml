@@ -133,6 +133,10 @@ menu:
       name: docs
       url: /docs/
       weight: 40
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 60    
 
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
