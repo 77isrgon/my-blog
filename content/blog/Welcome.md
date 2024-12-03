@@ -46,10 +46,9 @@ editPost:
 
 This is your new *vault*.*
 
-![](Pasted_image_20241127185132.png)
+![](/content/blog/Pasted_image_20241127185132.png)
 
-![](Pasted_image_20241127190728.png)
-
+![](/content/blog/Pasted_image_20241127190728.png)
 
 ```markup
 robocopy sourcepath destination path /mir
